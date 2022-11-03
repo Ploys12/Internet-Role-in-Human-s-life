@@ -1,0 +1,33 @@
+section.main {
+    height: 540px;
+    background-color: #e6e6e6;
+}
+div.header  {
+    height: 300px;
+    width: 600px;
+    
+    position: relative;
+    top: 150px;
+}
+.internet_img {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 1050px;
+    bottom: 150px;
+}
+div.info-in {
+    height: 2000px;
+    background-color: gray;
+    margin: 0px;
+}
+.internet_img {
+    border: 2px solid black;
+}
+p.text-inter {
+    line-height: 32px;
+}
+.spisok1 {
+    line-height: 32px;
+}
